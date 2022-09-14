@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wordel/static/css/main.17eb6a46.css",
+    "main.js": "/wordel/static/js/main.83ff001d.js",
+    "static/js/787.e01666d6.chunk.js": "/wordel/static/js/787.e01666d6.chunk.js",
+    "static/media/logo.svg": "/wordel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wordel/index.html",
+    "main.17eb6a46.css.map": "/wordel/static/css/main.17eb6a46.css.map",
+    "main.83ff001d.js.map": "/wordel/static/js/main.83ff001d.js.map",
+    "787.e01666d6.chunk.js.map": "/wordel/static/js/787.e01666d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17eb6a46.css",
+    "static/js/main.83ff001d.js"
+  ]
+}
